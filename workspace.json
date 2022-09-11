@@ -3,6 +3,8 @@
   "version": 2,
   "projects": {
     "mobile": "apps/mobile",
-    "mobile-e2e": "apps/mobile-e2e"
+    "mobile-e2e": "apps/mobile-e2e",
+    "web-panel": "apps/web/panel",
+    "web-panel-e2e": "apps/web/panel-e2e"
   }
 }
